@@ -114,4 +114,5 @@ This project showcases how data analytics can drive smarter banking decisions by
 
 ## 👤 Author
 PRATIK PATI
+
 Data Analyst | Python | Power BI | SQL | EDA 
