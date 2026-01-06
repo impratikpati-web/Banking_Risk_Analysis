@@ -6,3 +6,5 @@
 
 
 📊 End-to-end Banking Analytics project using Python EDA and Power BI dashboards to analyze customer risk, income distribution, and financial behavior.
+
+## Project Overview
