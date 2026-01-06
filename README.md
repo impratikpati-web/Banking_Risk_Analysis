@@ -25,3 +25,19 @@ This project demonstrates real-world data analyst skills such as data cleaning, 
 - Study relationships between income and banking products.
 - Support data-driven risk assessment and portfolio optimization.
 - Enable cross-selling and regional performance strategies.
+
+## Dataset Description
+The dataset consists of structured banking customer data with both demographic and financial attributes.
+
+ ### Demographic Features
+ - Gender
+ - Nationality
+ - Occupation
+ - Branch ID
+ ### Financial Features
+ - Estimated Income
+ - Bank Deposits
+ - Savings
+ - Fixed Deposits
+ - Superannuation
+The dataset contains minimal missing values and well-defined data types, making it suitable for reliable analysis.
