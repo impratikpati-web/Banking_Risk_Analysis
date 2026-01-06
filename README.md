@@ -107,3 +107,11 @@ This project can be extended using advanced analytics and machine learning techn
    - Time-Series Analysis
      
      Analyze customer behavior trends over time for early risk detection.
+
+## Conclusion
+This project showcases how data analytics can drive smarter banking decisions by uncovering customer risk patterns, wealth concentration, and cross-selling opportunities using Python and Power BI.
+
+
+## 👤 Author
+PRATIK PATI
+Data Analyst | Python | Power BI | SQL | EDA 
