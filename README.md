@@ -12,4 +12,4 @@ The Banking Risk Analysis project focuses on understanding customer financial be
 
 This project demonstrates real-world data analyst skills such as data cleaning, statistical analysis, visualization, and business insight communication.
 
-##Business Objectives
+## Business Objectives
