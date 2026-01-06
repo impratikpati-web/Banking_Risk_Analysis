@@ -61,3 +61,17 @@ The dataset contains minimal missing values and well-defined data types, making 
     - Bank Deposits and Superannuation
     - Savings and Fixed Deposits
  These patterns indicate opportunities for portfolio expansion and cross-selling.
+
+## Power BI Dashboard - Visual Insights
+The Power BI dashboard provides an interactive, business-friendly view of customer risk and financial behavior.
+- Home Sceen
+  <img width="1305" height="733" alt="Screenshot 2026-01-06 164422" src="https://github.com/user-attachments/assets/c5f9714d-d3d0-4d91-bb34-db53ac99aa5c" />
+- Loan Analysis
+  <img width="1305" height="731" alt="Screenshot 2026-01-06 164458" src="https://github.com/user-attachments/assets/fa6b516d-c603-44eb-a358-f67848e1ada6" />
+- Deposit Analysis
+  <img width="1308" height="734" alt="Screenshot 2026-01-06 164523" src="https://github.com/user-attachments/assets/675ac4f7-2604-4e4c-88c4-7e3b8183ca3a" />
+- Summay
+  <img width="1310" height="735" alt="Screenshot 2026-01-06 164551" src="https://github.com/user-attachments/assets/50b330c9-ebef-4bde-bc3d-933bbd700821" />
+
+
+
