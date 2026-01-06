@@ -42,3 +42,22 @@ The dataset consists of structured banking customer data with both demographic a
  - Superannuation
 
 The dataset contains minimal missing values and well-defined data types, making it suitable for reliable analysis.
+
+## 🔍 Exploratory Data Analysis (EDA)
+
+### Univariate Analysis
+- Estimated Income is right-skewed, with most customers in low-to-middle income bands.
+- Bank Deposits show heavy right skewness, where a small customer segment holds disproportionately high balances.
+- Savings, Fixed Deposits, and Superannuation follow similar patterns:
+    - High concentration at lower values
+    - Long tail of high-value customers
+- Income Band Segmentation reveals fewer high-income customers who contribute significantly to overall assets.
+- Categorical analysis highlights uneven customer distribution across branches and nationalities.
+
+### Bivariate Analysis
+- Strong positive relationship between Estimated Income and Bank Deposits/Savings.
+- High-income customers tend to diversify investments across multiple financial products.
+- Strong correlations observed between:
+    - Bank Deposits and Superannuation
+    - Savings and Fixed Deposits
+ These patterns indicate opportunities for portfolio expansion and cross-selling.
