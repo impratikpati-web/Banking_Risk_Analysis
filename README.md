@@ -93,12 +93,17 @@ The Power BI dashboard provides an interactive, business-friendly view of custom
 This project can be extended using advanced analytics and machine learning techniques:
 
    - Risk Scoring Model
+     
      Build classification models (Logistic Regression, Random Forest, XGBoost) to predict high-risk customers.
    - Customer Segmentation
+     
      Apply clustering algorithms (K-Means, Hierarchical Clustering) for behavioral segmentation.
    - Anomaly Detection
+     
      Identify unusual deposit or withdrawal patterns using Isolation Forest or LOF.
    - Feature Engineering
+     
      Create financial ratios and composite risk indicators.
    - Time-Series Analysis
+     
      Analyze customer behavior trends over time for early risk detection.
