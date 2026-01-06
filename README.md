@@ -74,4 +74,10 @@ The Power BI dashboard provides an interactive, business-friendly view of custom
   <img width="1310" height="735" alt="Screenshot 2026-01-06 164551" src="https://github.com/user-attachments/assets/50b330c9-ebef-4bde-bc3d-933bbd700821" />
 
 
+## Skills & Tools Demonstrated
+   - Python (Pandas,Numpy,Matplotlib,Seaborn)
+   - Exploratory Data Analysis (EDA)
+   - Data Cleaning and Transformation
+   - Statistical Analysis
+   - Power BI Dashboard Development
 
