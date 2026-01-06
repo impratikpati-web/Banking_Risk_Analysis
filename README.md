@@ -13,3 +13,8 @@ The Banking Risk Analysis project focuses on understanding customer financial be
 This project demonstrates real-world data analyst skills such as data cleaning, statistical analysis, visualization, and business insight communication.
 
 ## Business Objectives
+- Analyze income and asset distribution across banking customers.
+- Identify high-value and potential high-risk customer segments.
+- Study relationships between income and banking products.
+- Support data-driven risk assessment and portfolio optimization.
+- Enable cross-selling and regional performance strategies.
