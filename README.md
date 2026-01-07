@@ -4,6 +4,7 @@
 ![Power BI](https://img.shields.io/badge/Power%20BI-Dashboarding-yellow?logo=powerbi&logoColor=black)
 ![GitHub](https://img.shields.io/badge/GitHub-Portfolio%20Project-black?logo=github)
 ![EDA](https://img.shields.io/badge/EDA-Exploratory%20Data%20Analysis-green)
+![Data Analytics](https://img.shields.io/badge/Data%20Analytics-Insights%20%26%20Visualization-brightgreen)
 
 End-to-end Banking Analytics project using Python EDA and Power BI dashboards to analyze customer risk, income distribution, and financial behavior.
 
